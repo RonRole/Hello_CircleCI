@@ -1,2 +1,2 @@
-const helloWorld = () => 'Hello World'
+const helloWorld = () => 'Hello Sawai World'
 module.exports = helloWorld
